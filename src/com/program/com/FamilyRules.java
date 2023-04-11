@@ -1,4 +1,4 @@
-package interfaceProgram;
+package com.program.com;
 
 public interface FamilyRules 
 {
